@@ -1,0 +1,4 @@
+Tools Yang Digunakan
+-Project Manajement :Discord
+-Diagram :Draw.io
+-Wireframe:balsamiq
