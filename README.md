@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>CRUD PHP MYSQL - Belajarphp.net</title>
-    </head>
     <body>
         <h2>List Mahasiswa</h2>
         <table border="1">
